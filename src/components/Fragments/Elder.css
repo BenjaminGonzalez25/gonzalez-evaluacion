@@ -1,0 +1,15 @@
+*{
+    background-color: grey; 
+
+}
+body{ 
+    background-color:blue;
+    height: 10px;
+}
+h1{ 
+    background-color: black;
+    width: 200px ;
+    color: whitesmoke;
+    font-family: "sans-serif";
+
+}
